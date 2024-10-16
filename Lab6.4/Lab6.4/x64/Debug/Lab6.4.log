@@ -1,0 +1,7 @@
+﻿  Lab6.4.cpp
+C:\Users\zemts\source\repos\Lab6.4\Lab6.4.cpp(14,22): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\zemts\source\repos\Lab6.4\Lab6.4.cpp(31,23): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+C:\Users\zemts\source\repos\Lab6.4\Lab6.4.cpp(35,25): warning C4244: -=: преобразование "float" в "int", возможна потеря данных
+C:\Users\zemts\source\repos\Lab6.4\Lab6.4.cpp(53,12): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+C:\Users\zemts\source\repos\Lab6.4\Lab6.4.cpp(88,11): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  Lab6.4.vcxproj -> C:\Users\zemts\source\repos\Lab6.4\x64\Debug\Lab6.4.exe
